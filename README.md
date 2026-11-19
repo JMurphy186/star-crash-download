@@ -5,7 +5,7 @@ A chunky, colourful toy-car arcade game for Windows. Race around Coastal Blue co
 ![Title screen](title.png)
 
 ## Download and play
-1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V46.zip`** (about 117 MB).
+1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V47.zip`** (about 117 MB).
 2. Right-click the zip and choose **Extract All**.
 3. Double-click **`StarCrash.exe`**.
 4. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**. That happens because this is a small homemade game, not an app from a big publisher. You only need to do it once.
@@ -43,6 +43,6 @@ Windows 10 or 11 (64-bit), with a graphics card that supports Vulkan or DirectX 
 - **Hit, explosion and pickup glow effects:** [Binbun](https://binbun3d.itch.io/) (CC0).
 - **Boats, race dressing, street lamps, mystery box, particles and impact sounds:** [Kenney](https://kenney.nl) (CC0).
 - **Lawn flowers and plants:** [flo-bit](https://flo-bit.itch.io/) "Low Poly Nature Pack" (CC0).
-- **Star Coin art:** from Monster Rally (Simple Kids Games).
+- **Star Coins:** designed after Monster Rally (Simple Kids Games).
 
 This repo only holds the game download, not the source code.
