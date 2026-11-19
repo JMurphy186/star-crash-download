@@ -5,7 +5,7 @@ A chunky, colourful toy-car arcade game for Windows. Race around Coastal Blue co
 ![Title screen](title.png)
 
 ## Download and play
-1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V41.zip`** (about 116 MB).
+1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V45.zip`** (about 117 MB).
 2. Right-click the zip and choose **Extract All**.
 3. Double-click **`StarCrash.exe`**.
 4. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**. That happens because this is a small homemade game, not an app from a big publisher. You only need to do it once.
@@ -38,6 +38,10 @@ Mouse and touch work in the menus. On a touchscreen, on-screen driving buttons a
 Windows 10 or 11 (64-bit), with a graphics card that supports Vulkan or DirectX 12. Most PCs from the last several years do.
 
 ## Credits
-Music: the "For Racing Game" collection by MintoDog (CC0), from [OpenGameArt](https://opengameart.org/content/for-racing-game-mintodogs-music).
+- **Music:** the "For Racing Game" collection by MintoDog (CC0), from [OpenGameArt](https://opengameart.org/content/for-racing-game-mintodogs-music).
+- **Crash and tire screech sounds:** "FREE CAR SFX" by LMGLolo ([CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)), used unmodified, from [itch.io](https://lmglolo.itch.io/free-car-sfx).
+- **Hit, explosion and pickup glow effects:** [Binbun](https://binbun3d.itch.io/) (CC0).
+- **Boats, race dressing, street lamps, mystery box, particles and impact sounds:** [Kenney](https://kenney.nl) (CC0).
+- **Lawn flowers and plants:** [flo-bit](https://flo-bit.itch.io/) "Low Poly Nature Pack" (CC0).
 
 This repo only holds the game download, not the source code.
