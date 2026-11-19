@@ -1,14 +1,16 @@
 # Star Crash – Coastal Star Chase
 
-A chunky, colourful toy-car arcade game for Windows. Race around Coastal Blue collecting stars, zap rivals with power-ups, and win new rides from the Prize Machine. There are 71 cars to collect.
+A chunky, colourful toy-car arcade game for Windows. Race around Coastal Blue collecting stars, dodge sand, water and oil, zap rivals with power-ups, and win new rides from the Prize Machine. There are 71 cars to collect, and each one drives a little differently.
 
 ![Title screen](title.png)
 
 ## Download and play
-1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V28.zip`** (about 91 MB).
+1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V41.zip`** (about 116 MB).
 2. Right-click the zip and choose **Extract All**.
 3. Double-click **`StarCrash.exe`**.
 4. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**. That happens because this is a small homemade game, not an app from a big publisher. You only need to do it once.
+
+If Windows says **Smart App Control** blocked the game, that PC only runs apps from known publishers, and Star Crash can't run there.
 
 No install, no account and no internet needed. Your progress saves on your own PC.
 
@@ -17,17 +19,25 @@ No install, no account and no internet needed. Your progress saves on your own P
 |---|---|
 | W / Arrow keys | Drive and steer |
 | Space | Fire your power-up |
+| Q | Cruise |
 | C | Change camera |
-| Esc | Pause |
+| Esc | Pause (lists all the controls) |
+| Controller | Stick to drive, A / RT to fire, Start to pause |
 
-Mouse and touch work in the menus.
+Mouse and touch work in the menus. On a touchscreen, on-screen driving buttons appear automatically. You can turn them on or off in **Settings**.
 
 ## How it works
+- Collect stars in a **5-minute star chase** against five rivals.
+- **Sand and water** slow you down, and **oil** spins you around.
 - Every **20 stars** you collect makes **1 coin**.
 - Spend **3 coins** in the **Prize Machine** to win a new ride.
+- Every ride is a **Racer, Zippy, Off-Road, Heavy or All-Rounder**.
 - Pick what to drive in the **Garage**, and see all 71 rides and set medals in your **Collection**.
 
 ## Requirements
 Windows 10 or 11 (64-bit), with a graphics card that supports Vulkan or DirectX 12. Most PCs from the last several years do.
+
+## Credits
+Music: the "For Racing Game" collection by MintoDog (CC0), from [OpenGameArt](https://opengameart.org/content/for-racing-game-mintodogs-music).
 
 This repo only holds the game download, not the source code.
