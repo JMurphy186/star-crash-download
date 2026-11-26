@@ -5,7 +5,7 @@ A chunky, colourful toy-car arcade game for Windows. Race around Coastal Blue co
 ![Title screen](title.png)
 
 ## Download and play
-1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V56.zip`** (about 175 MB).
+1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V60.zip`** (about 175 MB).
 2. Right-click the zip and choose **Extract All**.
 3. Double-click **`StarCrash.exe`**.
 4. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**. That happens because this is a small homemade game, not an app from a big publisher. You only need to do it once.
@@ -31,7 +31,8 @@ Mouse and touch work in the menus. On a touchscreen, on-screen driving buttons a
 - **Sand and water** slow you down, and **oil** spins you around.
 - Hit palms, street lamps, lifeguard stands and road barricades **fast** to smash them. A slow bump just stops you.
 - Every **20 stars** you collect makes **1 coin**.
-- Spend **3 coins** in the **Prize Machine** to win a new ride.
+- Spend **3 coins** in the **Prize Machine** to win a new ride. Every car you don't have yet has the same chance. COMMON, RARE and UNIQUE labels are just for looks.
+- Earn **badges**: finish a round, land a jump, visit all four corners, collect 100 stars and try 3 different rides. Each badge gives bonus stars once.
 - Every ride is a **Racer, Zippy, Off-Road, Heavy or All-Rounder**.
 - Pick what to drive in the **Garage**, and see all 75 rides and set medals in your **Collection**.
 
