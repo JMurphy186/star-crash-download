@@ -1,11 +1,11 @@
 # Star Crash – Coastal Star Chase
 
-A chunky, colourful toy-car arcade game for Windows. Race around Coastal Blue collecting stars, dodge sand, water and oil, zap rivals with power-ups, and win new rides from the Prize Machine. There are 75 cars, including 14 free starters, and each one drives a little differently.
+A chunky, colourful toy-car arcade game for Windows. Race around Sunny Coast collecting stars, dodge sand, water and oil, zap rivals with power-ups, and win new rides from the Prize Machine. There are 75 cars, including 14 free starters, and each one drives a little differently.
 
 ![Title screen](title.png)
 
 ## Download and play
-1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V60.zip`** (about 175 MB).
+1. Go to **[Releases](../../releases/latest)** and download **`StarCrash-V64.zip`** (about 184 MB).
 2. Right-click the zip and choose **Extract All**.
 3. Double-click **`StarCrash.exe`**.
 4. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**. That happens because this is a small homemade game, not an app from a big publisher. You only need to do it once.
@@ -32,7 +32,7 @@ Mouse and touch work in the menus. On a touchscreen, on-screen driving buttons a
 - Hit palms, street lamps, lifeguard stands and road barricades **fast** to smash them. A slow bump just stops you.
 - Every **20 stars** you collect makes **1 coin**.
 - Spend **3 coins** in the **Prize Machine** to win a new ride. Every car you don't have yet has the same chance. COMMON, RARE and UNIQUE labels are just for looks.
-- Earn **badges**: finish a round, land a jump, visit all four corners, collect 100 stars and try 3 different rides. Each badge gives bonus stars once.
+- Earn **badges** (earned ones turn gold): finish a round, land a jump, visit all four corners, collect 100 stars and try 3 different rides. Each badge gives bonus stars once.
 - Every ride is a **Racer, Zippy, Off-Road, Heavy or All-Rounder**.
 - Pick what to drive in the **Garage**, and see all 75 rides and set medals in your **Collection**.
 
@@ -45,6 +45,7 @@ Windows 10 or 11 (64-bit), with a graphics card that supports Vulkan or DirectX 
 - **Hit, explosion and pickup glow effects:** [Binbun](https://binbun3d.itch.io/) (CC0).
 - **Boats, race dressing, street lamps, mystery box, particles and impact sounds:** [Kenney](https://kenney.nl) (CC0).
 - **Lawn flowers and plants:** [flo-bit](https://flo-bit.itch.io/) "Low Poly Nature Pack" (CC0).
+- **Fonts:** Luckiest Guy by Astigmatic (Apache 2.0; the O and o letters enlarged for Star Crash) and Baloo 2 by Ek Type (SIL OFL 1.1). The licences are in `FONT LICENSES.txt` in the download.
 - **Star Coins:** designed after Monster Rally (Simple Kids Games).
 
 This repo only holds the game download, not the source code.
